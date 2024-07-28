@@ -16,7 +16,7 @@ export default function Projects() {
 
             <div className='flex items-center justify-center flex-col md:justify-around lg:flex-row gap-5 mb-16'>
                 <div className='my-image'>
-                    <a href="https://jt-estate.onrender.com/">
+                    <a href="https://jt-estate.onrender.com/" target="_blank">
                         <img src={Pic1} alt="" className="w-[18rem] sm:w-[20rem] ml-0 lg:ml-20 rounded-lg" />
                     </a>
                 </div>
@@ -37,7 +37,7 @@ export default function Projects() {
 
             <div className='flex items-center justify-center flex-col md:justify-around lg:flex-row gap-5 mb-16'>
                 <div className='my-image'>
-                    <a href="https://real-time-chat-app-h84z.onrender.com/">
+                    <a href="https://real-time-chat-app-h84z.onrender.com/" target="_blank">
                         <img src={Pic2} alt="" className="w-[18rem] sm:w-[20rem] ml-0 lg:ml-20 rounded-lg" />
                     </a>
                 </div>
@@ -57,7 +57,7 @@ export default function Projects() {
 
             <div className='flex items-center justify-center flex-col md:justify-around lg:flex-row gap-5 mb-16'>
                 <div className='my-image'>
-                    <a href="https://jinmoyee.github.io/HTML-CSS-Shopping-Website/index.html">
+                    <a href="https://jinmoyee.github.io/HTML-CSS-Shopping-Website/index.html" target="_blank">
                         <img src={Pic3} alt="" className="w-[18rem] sm:w-[20rem] ml-0 lg:ml-20 rounded-lg" />
                     </a>
                 </div>
@@ -75,7 +75,7 @@ export default function Projects() {
 
             <div className='flex items-center justify-center flex-col md:justify-around lg:flex-row gap-5 mb-16'>
                 <div className='my-image'>
-                    <a href="https://jinmoyee.github.io/Blog-HTML-AND-CSS-Website/">
+                    <a href="https://jinmoyee.github.io/Blog-HTML-AND-CSS-Website/" target="_blank">
                         <img src={Pic4} alt="" className="w-[18rem] sm:w-[20rem] ml-0 lg:ml-20 rounded-lg" />
                     </a>
                 </div>
@@ -93,7 +93,7 @@ export default function Projects() {
 
             <div className='flex items-center justify-center flex-col md:justify-around lg:flex-row gap-5 mb-16'>
                 <div className='my-image'>
-                    <a href="https://jinmoyee.github.io/Restaurant-HTML-AND-CSS-Website/">
+                    <a href="https://jinmoyee.github.io/Restaurant-HTML-AND-CSS-Website/" target="_blank">
                         <img src={Pic5} alt="" className="w-[18rem] sm:w-[20rem] ml-0 lg:ml-20 rounded-lg" />
                     </a>
                 </div>
@@ -111,7 +111,7 @@ export default function Projects() {
 
             <div className='flex items-center justify-center flex-col md:justify-around lg:flex-row gap-5 mb-16'>
                 <div className='my-image'>
-                    <a href="https://jinmoyee.github.io/Parallax-HTML-AND-CSS-Website/">
+                    <a href="https://jinmoyee.github.io/Parallax-HTML-AND-CSS-Website/" target="_blank">
                         <img src={Pic6} alt="" className="w-[18rem] sm:w-[20rem] ml-0 lg:ml-20 rounded-lg" />
                     </a>
                 </div>
