@@ -9,10 +9,10 @@ export default function Hero() {
             </div>
             <div className='about'>
                 <h2 className='text-[#83e7ac] text-2xl md:text-3xl lg:text-4xl xl:text-5xl font-medium mb-5 mt-5 text-center lg:text-left'>Full Stack Developer</h2>
-                <p className="text-center lg:text-left">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam nam, aliquid ipsam autem neque animi tenetur amet similique dolorum quibusdam aspernatur unde eveniet obcaecati illum dolore assumenda suscipit ullam, porro eligendi quae ex eius. Molestiae tempore, eligendi voluptas quos, impedit obcaecati id soluta fuga et voluptatem atque dolores recusandae eius perferendis ad incidunt non maxime debitis iusto ea ipsa enim harum nobis accusantium! Deleniti, quam nesciunt.</p>
+                <p className="text-center lg:text-left">I am a passionate and dedicated web developer with a strong foundation in both front-end and back-end technologies. With a deep understanding of modern web development practices, I have honed my skills in HTML, CSS, JavaScript, React, Tailwind CSS, Node.js, Express.js, MongoDB, and Firebase. My diverse skill set allows me to build comprehensive, full-stack applications that are both visually appealing and functionally robust.</p>
             </div>
         </div>
-        <div className='my-image mb-10'>
+        <div className='my-image mt-5'>
             <img src={Pic} alt="" className="h-[15rem] w-[14rem] sm:h-[20rem] sm:w-[19rem] lg:h-[25rem] lg:w-[24rem] xl:h-[30rem] xl:w-[29rem] mr-0 lg:mr-20 rounded-xl"/>
         </div>
     </div>

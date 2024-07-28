@@ -14,7 +14,7 @@ import mongo from "../assets/icons/mongo.png"
 export default function Technology() {
   return (
     <div className='dark:text-white h-[100%]'>
-        <h1 className='text-5xl font-thin text-center mb-6'>Technology</h1>
+        <h1 className='text-3xl font-thin text-center mb-6 md:text-4xl lg:text-5xl mt-5 lg:mt-0'>Technology</h1>
         <div className='border border-black mb-6 mx-6 dark:border-white'></div>
             <div className='icons flex flex-wrap justify-center gap-8 m-2 mt-[6rem] mb-[5rem]'>
                 <img src={html} alt="" className='h-[90px] w-[90px] border-4 border-black rounded-xl dark:border-white p-1'/>
