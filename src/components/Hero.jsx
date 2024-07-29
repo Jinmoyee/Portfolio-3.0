@@ -12,7 +12,7 @@ const container = (delay) => ({
 
 export default function Hero() {
   return (
-    <div className='flex dark:text-white items-center h-screen justify-center lg:justify-around flex-col lg:flex-row gap-5'>
+    <div className='flex dark:text-white items-center h-[100dvh] justify-center lg:justify-around flex-col lg:flex-row gap-5'>
         <div className='mb-15 lg:mb-24 ml-0 lg:ml-20 w-[95%] md:w-[80%] lg:w-[50%]'>
             <div className='name'>
             <motion.h1 
